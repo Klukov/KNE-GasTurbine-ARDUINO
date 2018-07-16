@@ -1,7 +1,7 @@
 # KNE Gas Turbine ARDUINO - my BSc Thesis
-My BSc project - measurement and control systems of KNE's micro gas turbine.
-Originally written by Jan Pleszyński, overwritten and extended by Piotr Klukowski in 2016.
-
+My BSc project - measurement and control systems of KNE's micro gas turbine. <br/>
+The first version of control and measurement system was written by Jan Pleszyński, overwritten and extended by Piotr Klukowski in 2016.
+<br/>
 Extensions: auto start creation, remote control application, measurement system extension, bug fix in both controllers, safety procedures added.
 
 Firstly I want to apologize for using names in my native language – Polish. The reason is that it was a language of my BSc Thesis, which one I enclose to this folder. However abstract is also in English.
